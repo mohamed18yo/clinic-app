@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+</head>
+<body>
+@html.block('content')
+<h3>hi</h3>
+</body>
+
+</html>
